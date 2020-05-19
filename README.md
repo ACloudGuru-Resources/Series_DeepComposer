@@ -13,7 +13,7 @@ During this episode, you learn to build a custom GAN architecture and train a mu
 * Jupyter Notebook File - ACG-ReggaeGAN.ipynb
 * One Love (by Bob Marley) melody played on the AWS DeepComposer - one-love.mp3 or one-love.midi
 * AI generated track with accompanying instruments - iteration-150.mid or iteration-150.mp3
-* GarageBand output - one-love_generated.mp3
+* Final output - one-love_generated.mp3
 
 ## Authors
 
