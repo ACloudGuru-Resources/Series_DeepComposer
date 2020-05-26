@@ -1,7 +1,7 @@
 # AWS DeepComposer: Train it Again Maestro
 
 This web series from [A Cloud Guru](https://acloud.guru) teaches you machine learning using [AWS DeepComposer](https://aws.amazon.com/deepcomposer/).
-AWS DeepComposer is a musical keyboard that uses Generative AI to transform a melody that you provide into a completely original song. 
+AWS DeepComposer is an educational AWS service and musical keyboard that uses Generative AI to transform a melody that you provide into a completely original song. 
 
 
 ## Episode 4 - Music Composition with a Custom Model
