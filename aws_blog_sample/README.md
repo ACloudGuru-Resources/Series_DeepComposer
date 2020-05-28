@@ -1,6 +1,6 @@
-# Bring your own data to create a music genre model for AWS DeepComposer
+# Creating a music genre model with your own data in AWS DeepComposer
 
-This notebook is for the "Bring your own data to create a music genre model for AWS DeepComposer" blog and is associated with the AWS DeepComposer: Train it Again Maestro web series from [A Cloud Guru](https://acloud.guru). This notebook teaches you how to prepare your data to train a custom music genre model for [AWS DeepComposer](https://aws.amazon.com/deepcomposer/).
+This notebook is for the "Creating a music genre model with your own data in AWS DeepComposer" blog and is associated with the AWS DeepComposer: Train it Again Maestro web series from [A Cloud Guru](https://acloud.guru). This notebook teaches you how to prepare your data to train a custom music genre model for [AWS DeepComposer](https://aws.amazon.com/deepcomposer/).
 
 ## Files
 
